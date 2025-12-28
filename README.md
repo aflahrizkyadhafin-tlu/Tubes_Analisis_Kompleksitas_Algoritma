@@ -67,7 +67,3 @@ Dari analisis data gempa bumi tahun **2008 - 2023**, dapat ditarik kesimpulan:
 2. Lutfina, E., Inayati, N., & Saraswati, G. W. (2022). *Analisis perbandingan kinerja metode rekursif dan metode iteratif dalam algoritma linear search*. Komputika: Jurnal Sistem Komputer, **11**(2), 143-150.
 
 ---
-
-<p align="center">
-  <i>Made with ❤️ for Algoritma Kompleksitas Course</i>
-</p>
